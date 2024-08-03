@@ -48,12 +48,7 @@ const Hero = () => {
             Reduce the risk of a crisis to zero with unbeatable and unbreakable
             secure software solutions
           </p>
-          <Button
-            href="/pricing"
-            white
-            data-aos="fade-right"
-            data-aos-delay="400"
-          >
+          <Button href="" white data-aos="fade-right" data-aos-delay="400">
             Explore
           </Button>
         </div>
