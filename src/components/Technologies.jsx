@@ -1,13 +1,18 @@
 import { sparklabLogo, check } from '../assets';
 import { techApps, techContent, techText } from '../constants';
 import Button from './Button';
+// import Heading from './Heading';
 import Section from './Section';
 import { LeftCurve, RightCurve } from './design/Technologies';
 
 const Technologies = () => {
   return (
-    <Section crosses>
+    <Section crosses id="how-we-build">
       <div className="container lg:flex">
+        {/* <Heading
+          tag="The tech stack of now and beyond"
+          title="Modern Technologies"
+        /> */}
         <div className="max-w-[25rem]">
           <h2 className="h2 mb-4 md:mb-8" data-aos="fade-right">
             Streamlined workflow boosting productivity

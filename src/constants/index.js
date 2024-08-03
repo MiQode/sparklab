@@ -124,8 +124,10 @@ export const roadmap = [
   },
 ];
 
-export const techText = `SparkLab prioritizes user-centric design, creating intuitive and engaging interfaces that deliver exceptional user experiences, 
-    driving satisfaction and loyalty.`;
+export const techText = `At SparkLab, we embrace a wide array of cutting-edge technologies to deliver exceptional 
+                        software solutions. Our tech stack includes modern front-end frameworks, which enable us to 
+                        create dynamic, lightweight and exciting user experiences. On the back end, we utilize robust technologies
+                        ensuring scalable and high-performance applications.`;
 
 export const techContent = [
   {
