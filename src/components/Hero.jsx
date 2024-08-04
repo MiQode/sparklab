@@ -22,11 +22,7 @@ const Hero = () => {
       id="hero"
     >
       <div className="container relative" ref={parallaxRef}>
-        <div
-          className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]"
-          data-aos="fade-up"
-          data-aos-once="false"
-        >
+        <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6" data-aos="fade-up" data-aos-delay="200">
             A Fortress for Digital Assets with a {` `}
             <span className="inline-block relative">
